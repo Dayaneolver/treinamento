@@ -1,11 +1,18 @@
 h1{
     color: blueviolet;
     text-align: center;
+    
 } 
 
 h3{ 
     color: brown;
-    text-align: center; 
+    text-align:center ;
+    text-decoration:none;
+    
+    background-color:aqua;
+    padding: 10px;
+    border-radius: 20px 20px 20px 20px;
+    
 }
 
 b{ 
@@ -13,8 +20,13 @@ b{
 }
 img{ 
     width: 100%;
+ ;
 }
 
 p{
     text-align: center;
+}
+
+s{
+    color: blue;
 }
