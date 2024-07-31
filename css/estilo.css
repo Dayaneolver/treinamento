@@ -1,6 +1,7 @@
 h1{
     color: blueviolet;
     text-align: center;
+    text-decoration: underline;
     
 } 
 
@@ -24,9 +25,17 @@ img{
 }
 
 p{
-    text-align: center;
+    text-align:end;
 }
 
 s{
     color: blue;
+}
+a:hover{
+    background-color: chartreuse;
+    color: black;
+}
+h3:hover{
+    background-color: black;
+    color: white;
 }
